@@ -1,0 +1,21 @@
+{
+  "name": "serial-example",
+  "description": "Example serial writer",
+  "version": "0.1.0",
+  "engines": { "node": ">=0.10.0" },
+  "dependencies": {
+    "serialport": "1.2.x"
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fashioning-circuits/serial-write-example.git"
+  },
+  "homepage": "https://github.com/fashioning-circuits/serial-write-example",
+  "author": {
+    "name": "Harrison Massey",
+    "email": "harrisonm@utdallas.edu",
+    "url": "https://github.com/Harrison-M"
+  }
+}
